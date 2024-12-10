@@ -12,7 +12,7 @@ This repository contains a Python script that generates QR codes using the `qrco
 
 ## How to Use:
 1. Clone this repository to your local machine.
-2. Install the required Python dependencies using `pip install qrcode[pil]`.
+2. Install the required Python dependencies using `pip install qrcode[pil]` or `pip3 install "qrcode[pil]"`.
 3. Modify the `data` variable in the script to include your desired text or URL.
 4. Run the script to generate and save the QR code image.
 
